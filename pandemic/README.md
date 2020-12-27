@@ -1,7 +1,7 @@
 # pandemic_sandbox
 A simulation sandbox where you can configure various parameters (like R naught and fatality rate) to visualise the spread of a virus.
 
-<img src="https://github.com/specbug/pandemic_sandbox/blob/master/visual.gif" width="1200" height="800">
+<img src="https://github.com/specbug/simulation-theory/blob/master/pandemic/visual.gif" width="1200" height="800">
 
 
 
