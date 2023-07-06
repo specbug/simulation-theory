@@ -2,6 +2,14 @@
 A simulation sandbox where you can configure various parameters (like R naught and fatality rate) to visualise the spread of a virus.
 
 #### Demo
+```
+lightgray -> unaffected
+pink -> asymptomatic (infected)
+red -> symptomatic (infected)
+green -> healed
+black -> dead
+blue -> quarantined
+```
 <img src="https://github.com/specbug/simulation-theory/blob/master/pandemic/visual.gif" width="400" height="400">
 
 
